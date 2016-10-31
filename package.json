@@ -37,7 +37,7 @@
   },
   "peerDependencies": {
     "react": "^0.14.1 || ^15",
-    "react-dom": "^0.14.1"
+    "react-dom": "^0.14.1 || ^15"
   },
   "browserify-shim": {
     "classnames": "global:classNames",
